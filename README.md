@@ -22,3 +22,17 @@ All your files and folders are presented as a tree in the file explorer. You can
 - Flashing emergency sign on top right of tweet that displays a description upon hover
 - New *Follow Emergency* button.
 - New menu icon to find all *Emergency Tweets* being posted in your area.
+
+## Screenshots
+
+### Hovering over the emergency symbol
+
+<img src="screenshots/img_1" width = 200>
+
+### Hovering over the follow emergency button
+
+<img src="screenshots/img_2" width = 200>
+
+### Clicking on follow emergency
+
+<img src="screenshots/img_3" width = 200>
