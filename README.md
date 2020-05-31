@@ -27,12 +27,12 @@ All your files and folders are presented as a tree in the file explorer. You can
 
 ### Hovering over the emergency symbol
 
-<img src="screenshots/img_1.png" width = 200>
+<img src="screenshots/img_1.png" width = 350>
 
 ### Hovering over the follow emergency button
 
-<img src="screenshots/img_2.png" width = 200>
+<img src="screenshots/img_2.png" width = 350>
 
 ### Clicking on follow emergency
 
-<img src="screenshots/img_3.png" width = 200>
+<img src="screenshots/img_3.png" width = 350>
