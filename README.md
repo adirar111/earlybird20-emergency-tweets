@@ -7,7 +7,7 @@ During #EarlyBird20, we were tasked to go through the Software Development Cycle
 -   We want to introduce an “emergency tweet” option for emergency tweets. An emergency icon at the top right of the tweet would highlight it as a concerning topic. (This will help catch the users attention).
 -   Upon opening an emergency tweet, there will be an option to follow that tweet/thread (via a button) so that users can stay posted on the latest updates. Once following, users would receive notifications regarding that topic of the emergency tweet. (This will help the user engagement with the app)
 
-Collaborators: Abdi, Amanda, Charles (https://github.com/baiden00), Caro (https://github.com/CaroCardozo), Carlos, Larissa
+Collaborators: Abdi, Amanda, Charles (https://github.com/baiden00), Carlos, Caro (https://github.com/CaroCardozo), Larissa
 
 ## To properly run this project
 
