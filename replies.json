@@ -1,21 +1,20 @@
 [
-	{
-	"id": 123,
-  	"text": "No one touched your portal gun, Dad.",
-    "author": "Beth",
-    "handle": "@beth"
-	
-	},
-	{
-    "id": 456,
-	"text": "What's that?",
-    "author": "Jerry",
-	"handle": "@jerry"
-	},
-	{
-    "id": 786,
-	"text": "Oh jeez, Rick, I made a big mistake.",
-	"author": "Morty",
-	"handle": "@morty<3jessica"
-	}
+    {
+        "id": 123,
+        "text": "No one touched your portal gun, Dad.",
+        "author": "Beth",
+        "handle": "@beth"
+    },
+    {
+        "id": 456,
+        "text": "What's that?",
+        "author": "Jerry",
+        "handle": "@jerry"
+    },
+    {
+        "id": 786,
+        "text": "Oh jeez, Rick, I made a big mistake.",
+        "author": "Morty",
+        "handle": "@morty<3jessica"
+    }
 ]
